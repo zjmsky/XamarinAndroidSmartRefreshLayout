@@ -1,6 +1,11 @@
 # XamarinAndroidSmartRefreshLayout
 SmartRefreshLayout binding library for Xamarin.Android
 
+Android library:
+
+https://github.com/scwang90/SmartRefreshLayout
+
+https://segmentfault.com/a/1190000010066071
 
 Tutorial:
 
